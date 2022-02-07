@@ -1,0 +1,34 @@
+C:\Users\beng\documents\visual studio 2015\Projects\VEIPv2.0\FoundDeviceBtn\bin\Debug\FoundDeviceBtn.dll
+C:\Users\beng\documents\visual studio 2015\Projects\VEIPv2.0\FoundDeviceBtn\bin\Debug\FoundDeviceBtn.pdb
+C:\Users\beng\documents\visual studio 2015\Projects\VEIPv2.0\FoundDeviceBtn\bin\Debug\EEIP.dll
+C:\Users\beng\documents\visual studio 2015\Projects\VEIPv2.0\FoundDeviceBtn\obj\Debug\FoundDeviceBtn.csprojResolveAssemblyReference.cache
+C:\Users\beng\documents\visual studio 2015\Projects\VEIPv2.0\FoundDeviceBtn\obj\Debug\FoundDeviceBtn.FoundConnection.resources
+C:\Users\beng\documents\visual studio 2015\Projects\VEIPv2.0\FoundDeviceBtn\obj\Debug\FoundDeviceBtn.csproj.GenerateResource.Cache
+C:\Users\beng\documents\visual studio 2015\Projects\VEIPv2.0\FoundDeviceBtn\obj\Debug\FoundDeviceBtn.dll
+C:\Users\beng\documents\visual studio 2015\Projects\VEIPv2.0\FoundDeviceBtn\obj\Debug\FoundDeviceBtn.pdb
+C:\Users\BEng\Desktop\VEIPv2.0\FoundDeviceBtn\bin\Debug\FoundDeviceBtn.dll
+C:\Users\BEng\Desktop\VEIPv2.0\FoundDeviceBtn\bin\Debug\FoundDeviceBtn.pdb
+C:\Users\BEng\Desktop\VEIPv2.0\FoundDeviceBtn\obj\Debug\FoundDeviceBtn.csprojAssemblyReference.cache
+C:\Users\BEng\Desktop\VEIPv2.0\FoundDeviceBtn\obj\Debug\FoundDeviceBtn.FoundConnection.resources
+C:\Users\BEng\Desktop\VEIPv2.0\FoundDeviceBtn\obj\Debug\FoundDeviceBtn.csproj.GenerateResource.cache
+C:\Users\BEng\Desktop\VEIPv2.0\FoundDeviceBtn\obj\Debug\FoundDeviceBtn.csproj.CoreCompileInputs.cache
+C:\Users\BEng\Desktop\VEIPv2.0\FoundDeviceBtn\obj\Debug\FoundDeviceBtn.csproj.CopyComplete
+C:\Users\BEng\Desktop\VEIPv2.0\FoundDeviceBtn\obj\Debug\FoundDeviceBtn.dll
+C:\Users\BEng\Desktop\VEIPv2.0\FoundDeviceBtn\obj\Debug\FoundDeviceBtn.pdb
+C:\Users\BEng\source\repos\VEIPv2.0\FoundDeviceBtn\bin\Debug\FoundDeviceBtn.dll
+C:\Users\BEng\source\repos\VEIPv2.0\FoundDeviceBtn\bin\Debug\FoundDeviceBtn.pdb
+C:\Users\BEng\source\repos\VEIPv2.0\FoundDeviceBtn\obj\Debug\FoundDeviceBtn.csprojAssemblyReference.cache
+C:\Users\BEng\source\repos\VEIPv2.0\FoundDeviceBtn\obj\Debug\FoundDeviceBtn.FoundConnection.resources
+C:\Users\BEng\source\repos\VEIPv2.0\FoundDeviceBtn\obj\Debug\FoundDeviceBtn.csproj.GenerateResource.cache
+C:\Users\BEng\source\repos\VEIPv2.0\FoundDeviceBtn\obj\Debug\FoundDeviceBtn.csproj.CopyComplete
+C:\Users\BEng\source\repos\VEIPv2.0\FoundDeviceBtn\obj\Debug\FoundDeviceBtn.dll
+C:\Users\BEng\source\repos\VEIPv2.0\FoundDeviceBtn\obj\Debug\FoundDeviceBtn.pdb
+C:\Users\beng\source\repos\VEIPv2.0\FoundDeviceBtn\obj\Debug\FoundDeviceBtn.csproj.CoreCompileInputs.cache
+E:\howards_random_stuff\projects\keyence_ftp_examples\VEIPv2.0\FoundDeviceBtn\bin\Debug\FoundDeviceBtn.dll
+E:\howards_random_stuff\projects\keyence_ftp_examples\VEIPv2.0\FoundDeviceBtn\bin\Debug\FoundDeviceBtn.pdb
+E:\howards_random_stuff\projects\keyence_ftp_examples\VEIPv2.0\FoundDeviceBtn\obj\Debug\FoundDeviceBtn.FoundConnection.resources
+E:\howards_random_stuff\projects\keyence_ftp_examples\VEIPv2.0\FoundDeviceBtn\obj\Debug\FoundDeviceBtn.csproj.GenerateResource.cache
+E:\howards_random_stuff\projects\keyence_ftp_examples\VEIPv2.0\FoundDeviceBtn\obj\Debug\FoundDeviceBtn.csproj.CoreCompileInputs.cache
+E:\howards_random_stuff\projects\keyence_ftp_examples\VEIPv2.0\FoundDeviceBtn\obj\Debug\FoundDeviceBtn.csproj.CopyComplete
+E:\howards_random_stuff\projects\keyence_ftp_examples\VEIPv2.0\FoundDeviceBtn\obj\Debug\FoundDeviceBtn.dll
+E:\howards_random_stuff\projects\keyence_ftp_examples\VEIPv2.0\FoundDeviceBtn\obj\Debug\FoundDeviceBtn.pdb

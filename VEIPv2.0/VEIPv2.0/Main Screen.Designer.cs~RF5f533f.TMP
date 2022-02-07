@@ -1,0 +1,333 @@
+﻿namespace VEIPv2._0
+{
+    partial class MainForm
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.SearchBtn = new System.Windows.Forms.Button();
+            this.ConnectionBtnHolder = new System.Windows.Forms.TableLayoutPanel();
+            this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.ConnectionInfo = new System.Windows.Forms.TextBox();
+            this.CloseConnectionBtn = new System.Windows.Forms.Button();
+            this.ConnectBrn = new System.Windows.Forms.Button();
+            this.IPInputString = new System.Windows.Forms.TextBox();
+            this.label1 = new System.Windows.Forms.Label();
+            this.InputBitsGroup = new System.Windows.Forms.GroupBox();
+            this.InputBitsTable = new System.Windows.Forms.TableLayoutPanel();
+            this.InputByteGroup = new System.Windows.Forms.GroupBox();
+            this.InputBytesTable = new System.Windows.Forms.TableLayoutPanel();
+            this.OutputBitsGroup = new System.Windows.Forms.GroupBox();
+            this.OutputBitsTable = new System.Windows.Forms.TableLayoutPanel();
+            this.OutputListGroup = new System.Windows.Forms.GroupBox();
+            this.OutputByteTable = new System.Windows.Forms.TableLayoutPanel();
+            this.vScrollBar1 = new System.Windows.Forms.VScrollBar();
+            this.vScrollBar2 = new System.Windows.Forms.VScrollBar();
+            this.vScrollBar3 = new System.Windows.Forms.VScrollBar();
+            this.vScrollBar4 = new System.Windows.Forms.VScrollBar();
+            this.groupBox1.SuspendLayout();
+            this.InputBitsGroup.SuspendLayout();
+            this.InputBitsTable.SuspendLayout();
+            this.InputByteGroup.SuspendLayout();
+            this.InputBytesTable.SuspendLayout();
+            this.OutputBitsGroup.SuspendLayout();
+            this.OutputBitsTable.SuspendLayout();
+            this.OutputListGroup.SuspendLayout();
+            this.OutputByteTable.SuspendLayout();
+            this.SuspendLayout();
+            // 
+            // SearchBtn
+            // 
+            this.SearchBtn.Location = new System.Drawing.Point(95, 50);
+            this.SearchBtn.Name = "SearchBtn";
+            this.SearchBtn.Size = new System.Drawing.Size(111, 32);
+            this.SearchBtn.TabIndex = 0;
+            this.SearchBtn.Text = "Search";
+            this.SearchBtn.UseVisualStyleBackColor = true;
+            // 
+            // ConnectionBtnHolder
+            // 
+            this.ConnectionBtnHolder.AutoScroll = true;
+            this.ConnectionBtnHolder.ColumnCount = 1;
+            this.ConnectionBtnHolder.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle());
+            this.ConnectionBtnHolder.Location = new System.Drawing.Point(12, 88);
+            this.ConnectionBtnHolder.Name = "ConnectionBtnHolder";
+            this.ConnectionBtnHolder.RowCount = 1;
+            this.ConnectionBtnHolder.RowStyles.Add(new System.Windows.Forms.RowStyle());
+            this.ConnectionBtnHolder.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 488F));
+            this.ConnectionBtnHolder.Size = new System.Drawing.Size(278, 488);
+            this.ConnectionBtnHolder.TabIndex = 1;
+            // 
+            // groupBox1
+            // 
+            this.groupBox1.Controls.Add(this.ConnectionInfo);
+            this.groupBox1.Controls.Add(this.CloseConnectionBtn);
+            this.groupBox1.Controls.Add(this.ConnectBrn);
+            this.groupBox1.Controls.Add(this.IPInputString);
+            this.groupBox1.Controls.Add(this.label1);
+            this.groupBox1.Location = new System.Drawing.Point(297, 50);
+            this.groupBox1.Name = "groupBox1";
+            this.groupBox1.Size = new System.Drawing.Size(242, 526);
+            this.groupBox1.TabIndex = 2;
+            this.groupBox1.TabStop = false;
+            this.groupBox1.Text = "Manual Connection Settings";
+            // 
+            // ConnectionInfo
+            // 
+            this.ConnectionInfo.Location = new System.Drawing.Point(11, 134);
+            this.ConnectionInfo.Multiline = true;
+            this.ConnectionInfo.Name = "ConnectionInfo";
+            this.ConnectionInfo.Size = new System.Drawing.Size(225, 386);
+            this.ConnectionInfo.TabIndex = 4;
+            // 
+            // CloseConnectionBtn
+            // 
+            this.CloseConnectionBtn.Location = new System.Drawing.Point(11, 100);
+            this.CloseConnectionBtn.Name = "CloseConnectionBtn";
+            this.CloseConnectionBtn.Size = new System.Drawing.Size(225, 28);
+            this.CloseConnectionBtn.TabIndex = 3;
+            this.CloseConnectionBtn.Text = "CloseConnection";
+            this.CloseConnectionBtn.UseVisualStyleBackColor = true;
+            // 
+            // ConnectBrn
+            // 
+            this.ConnectBrn.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.ConnectBrn.Location = new System.Drawing.Point(11, 66);
+            this.ConnectBrn.Name = "ConnectBrn";
+            this.ConnectBrn.Size = new System.Drawing.Size(225, 28);
+            this.ConnectBrn.TabIndex = 2;
+            this.ConnectBrn.Text = "Connect";
+            this.ConnectBrn.UseVisualStyleBackColor = true;
+            // 
+            // IPInputString
+            // 
+            this.IPInputString.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.IPInputString.Location = new System.Drawing.Point(11, 38);
+            this.IPInputString.Name = "IPInputString";
+            this.IPInputString.Size = new System.Drawing.Size(225, 22);
+            this.IPInputString.TabIndex = 1;
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Location = new System.Drawing.Point(7, 22);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(76, 17);
+            this.label1.TabIndex = 0;
+            this.label1.Text = "IP Address";
+            // 
+            // InputBitsGroup
+            // 
+            this.InputBitsGroup.Controls.Add(this.InputBitsTable);
+            this.InputBitsGroup.Location = new System.Drawing.Point(544, 50);
+            this.InputBitsGroup.Name = "InputBitsGroup";
+            this.InputBitsGroup.Size = new System.Drawing.Size(429, 205);
+            this.InputBitsGroup.TabIndex = 3;
+            this.InputBitsGroup.TabStop = false;
+            this.InputBitsGroup.Text = "Input Bits";
+            // 
+            // InputBitsTable
+            // 
+            this.InputBitsTable.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.InputBitsTable.AutoSize = true;
+            this.InputBitsTable.ColumnCount = 1;
+            this.InputBitsTable.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle());
+            this.InputBitsTable.Controls.Add(this.vScrollBar1, 0, 0);
+            this.InputBitsTable.Location = new System.Drawing.Point(8, 22);
+            this.InputBitsTable.Name = "InputBitsTable";
+            this.InputBitsTable.RowCount = 1;
+            this.InputBitsTable.RowStyles.Add(new System.Windows.Forms.RowStyle());
+            this.InputBitsTable.Size = new System.Drawing.Size(414, 176);
+            this.InputBitsTable.TabIndex = 0;
+            // 
+            // InputByteGroup
+            // 
+            this.InputByteGroup.Controls.Add(this.InputBytesTable);
+            this.InputByteGroup.Location = new System.Drawing.Point(544, 261);
+            this.InputByteGroup.Name = "InputByteGroup";
+            this.InputByteGroup.Size = new System.Drawing.Size(429, 315);
+            this.InputByteGroup.TabIndex = 4;
+            this.InputByteGroup.TabStop = false;
+            this.InputByteGroup.Text = "Input List";
+            // 
+            // InputBytesTable
+            // 
+            this.InputBytesTable.ColumnCount = 1;
+            this.InputBytesTable.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle());
+            this.InputBytesTable.Controls.Add(this.vScrollBar3, 0, 0);
+            this.InputBytesTable.Location = new System.Drawing.Point(8, 22);
+            this.InputBytesTable.Name = "InputBytesTable";
+            this.InputBytesTable.RowCount = 1;
+            this.InputBytesTable.RowStyles.Add(new System.Windows.Forms.RowStyle());
+            this.InputBytesTable.Size = new System.Drawing.Size(414, 286);
+            this.InputBytesTable.TabIndex = 0;
+            // 
+            // OutputBitsGroup
+            // 
+            this.OutputBitsGroup.Controls.Add(this.OutputBitsTable);
+            this.OutputBitsGroup.Location = new System.Drawing.Point(979, 50);
+            this.OutputBitsGroup.Name = "OutputBitsGroup";
+            this.OutputBitsGroup.Size = new System.Drawing.Size(429, 205);
+            this.OutputBitsGroup.TabIndex = 5;
+            this.OutputBitsGroup.TabStop = false;
+            this.OutputBitsGroup.Text = "Output Bits";
+            // 
+            // OutputBitsTable
+            // 
+            this.OutputBitsTable.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.OutputBitsTable.ColumnCount = 1;
+            this.OutputBitsTable.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 100F));
+            this.OutputBitsTable.Controls.Add(this.vScrollBar2, 0, 0);
+            this.OutputBitsTable.Location = new System.Drawing.Point(6, 22);
+            this.OutputBitsTable.Name = "OutputBitsTable";
+            this.OutputBitsTable.RowCount = 1;
+            this.OutputBitsTable.RowStyles.Add(new System.Windows.Forms.RowStyle());
+            this.OutputBitsTable.Size = new System.Drawing.Size(417, 176);
+            this.OutputBitsTable.TabIndex = 0;
+            // 
+            // OutputListGroup
+            // 
+            this.OutputListGroup.Controls.Add(this.OutputByteTable);
+            this.OutputListGroup.Location = new System.Drawing.Point(979, 261);
+            this.OutputListGroup.Name = "OutputListGroup";
+            this.OutputListGroup.Size = new System.Drawing.Size(429, 315);
+            this.OutputListGroup.TabIndex = 6;
+            this.OutputListGroup.TabStop = false;
+            this.OutputListGroup.Text = "Output List";
+            // 
+            // OutputByteTable
+            // 
+            this.OutputByteTable.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.OutputByteTable.ColumnCount = 1;
+            this.OutputByteTable.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle());
+            this.OutputByteTable.Controls.Add(this.vScrollBar4, 0, 0);
+            this.OutputByteTable.Location = new System.Drawing.Point(5, 22);
+            this.OutputByteTable.Name = "OutputByteTable";
+            this.OutputByteTable.RowCount = 1;
+            this.OutputByteTable.RowStyles.Add(new System.Windows.Forms.RowStyle());
+            this.OutputByteTable.Size = new System.Drawing.Size(418, 286);
+            this.OutputByteTable.TabIndex = 0;
+            // 
+            // vScrollBar1
+            // 
+            this.vScrollBar1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.vScrollBar1.Location = new System.Drawing.Point(393, 0);
+            this.vScrollBar1.Name = "vScrollBar1";
+            this.vScrollBar1.Size = new System.Drawing.Size(21, 176);
+            this.vScrollBar1.TabIndex = 0;
+            // 
+            // vScrollBar2
+            // 
+            this.vScrollBar2.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.vScrollBar2.Location = new System.Drawing.Point(396, 0);
+            this.vScrollBar2.Name = "vScrollBar2";
+            this.vScrollBar2.Size = new System.Drawing.Size(21, 176);
+            this.vScrollBar2.TabIndex = 0;
+            // 
+            // vScrollBar3
+            // 
+            this.vScrollBar3.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.vScrollBar3.Location = new System.Drawing.Point(393, 0);
+            this.vScrollBar3.Name = "vScrollBar3";
+            this.vScrollBar3.Size = new System.Drawing.Size(21, 286);
+            this.vScrollBar3.TabIndex = 0;
+            // 
+            // vScrollBar4
+            // 
+            this.vScrollBar4.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.vScrollBar4.Location = new System.Drawing.Point(397, 0);
+            this.vScrollBar4.Name = "vScrollBar4";
+            this.vScrollBar4.Size = new System.Drawing.Size(21, 286);
+            this.vScrollBar4.TabIndex = 0;
+            // 
+            // MainForm
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.SystemColors.Control;
+            this.ClientSize = new System.Drawing.Size(1417, 586);
+            this.Controls.Add(this.OutputBitsGroup);
+            this.Controls.Add(this.OutputListGroup);
+            this.Controls.Add(this.InputByteGroup);
+            this.Controls.Add(this.InputBitsGroup);
+            this.Controls.Add(this.groupBox1);
+            this.Controls.Add(this.ConnectionBtnHolder);
+            this.Controls.Add(this.SearchBtn);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.Name = "MainForm";
+            this.Text = "Main Screen";
+            this.Load += new System.EventHandler(this.MainForm_Load);
+            this.groupBox1.ResumeLayout(false);
+            this.groupBox1.PerformLayout();
+            this.InputBitsGroup.ResumeLayout(false);
+            this.InputBitsGroup.PerformLayout();
+            this.InputBitsTable.ResumeLayout(false);
+            this.InputByteGroup.ResumeLayout(false);
+            this.InputBytesTable.ResumeLayout(false);
+            this.OutputBitsGroup.ResumeLayout(false);
+            this.OutputBitsTable.ResumeLayout(false);
+            this.OutputListGroup.ResumeLayout(false);
+            this.OutputByteTable.ResumeLayout(false);
+            this.ResumeLayout(false);
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.Button SearchBtn;
+        private System.Windows.Forms.TableLayoutPanel ConnectionBtnHolder;
+        private System.Windows.Forms.GroupBox groupBox1;
+        private System.Windows.Forms.TextBox ConnectionInfo;
+        private System.Windows.Forms.Button CloseConnectionBtn;
+        private System.Windows.Forms.Button ConnectBrn;
+        private System.Windows.Forms.TextBox IPInputString;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.GroupBox InputBitsGroup;
+        private System.Windows.Forms.GroupBox InputByteGroup;
+        private System.Windows.Forms.GroupBox OutputBitsGroup;
+        private System.Windows.Forms.TableLayoutPanel InputBitsTable;
+        private System.Windows.Forms.TableLayoutPanel InputBytesTable;
+        private System.Windows.Forms.GroupBox OutputListGroup;
+        private System.Windows.Forms.TableLayoutPanel OutputBitsTable;
+        private System.Windows.Forms.TableLayoutPanel OutputByteTable;
+        private System.Windows.Forms.VScrollBar vScrollBar1;
+        private System.Windows.Forms.VScrollBar vScrollBar3;
+        private System.Windows.Forms.VScrollBar vScrollBar2;
+        private System.Windows.Forms.VScrollBar vScrollBar4;
+    }
+}
+

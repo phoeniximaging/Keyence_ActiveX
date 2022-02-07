@@ -1,0 +1,435 @@
+Command Complete Flag	CV_X400:I.DATA[0].0
+Command Error Flag	CV_X400:I.DATA[0].1
+Command Ready Flag	CV_X400:I.DATA[0].2
+Result Ready Flag	CV_X400:I.DATA[0].3
+Result OR Flag	CV_X400:I.DATA[0].4
+Reserved	CV_X400:I.DATA[0].5
+Reserved	CV_X400:I.DATA[0].6
+Reserved	CV_X400:I.DATA[0].7
+READY1	CV_X400:I.DATA[0].8
+READY2	CV_X400:I.DATA[0].9
+READY3	CV_X400:I.DATA[0].10
+READY4	CV_X400:I.DATA[0].11
+Reserved	CV_X400:I.DATA[0].12
+Reserved	CV_X400:I.DATA[0].13
+Reserved	CV_X400:I.DATA[0].14
+Reserved	CV_X400:I.DATA[0].15
+ACK1	CV_X400:I.DATA[0].16
+ACK2	CV_X400:I.DATA[0].17
+ACK3	CV_X400:I.DATA[0].18
+ACK4	CV_X400:I.DATA[0].19
+Reserved	CV_X400:I.DATA[0].20
+Reserved	CV_X400:I.DATA[0].21
+Reserved	CV_X400:I.DATA[0].22
+Reserved	CV_X400:I.DATA[0].23
+BUSY	CV_X400:I.DATA[0].24
+ERROR	CV_X400:I.DATA[0].25
+Reserved	CV_X400:I.DATA[0].26
+RUN	CV_X400:I.DATA[0].27
+Reserved	CV_X400:I.DATA[0].28
+Reserved	CV_X400:I.DATA[0].29
+Reserved	CV_X400:I.DATA[0].30
+Reserved	CV_X400:I.DATA[0].31
+Tool Judge Value0	CV_X400:I.DATA[1].0
+Tool Judge Value1	CV_X400:I.DATA[1].1
+Tool Judge Value2	CV_X400:I.DATA[1].2
+Tool Judge Value3	CV_X400:I.DATA[1].3
+Tool Judge Value4	CV_X400:I.DATA[1].4
+Tool Judge Value5	CV_X400:I.DATA[1].5
+Tool Judge Value6	CV_X400:I.DATA[1].6
+Tool Judge Value7	CV_X400:I.DATA[1].7
+Tool Judge Value8	CV_X400:I.DATA[1].8
+Tool Judge Value9	CV_X400:I.DATA[1].9
+Tool Judge Value10	CV_X400:I.DATA[1].10
+Tool Judge Value11	CV_X400:I.DATA[1].11
+Tool Judge Value12	CV_X400:I.DATA[1].12
+Tool Judge Value13	CV_X400:I.DATA[1].13
+Tool Judge Value14	CV_X400:I.DATA[1].14
+Tool Judge Value15	CV_X400:I.DATA[1].15
+Tool Judge Value16	CV_X400:I.DATA[1].16
+Tool Judge Value17	CV_X400:I.DATA[1].17
+Tool Judge Value18	CV_X400:I.DATA[1].18
+Tool Judge Value19	CV_X400:I.DATA[1].19
+Tool Judge Value20	CV_X400:I.DATA[1].20
+Tool Judge Value21	CV_X400:I.DATA[1].21
+Tool Judge Value22	CV_X400:I.DATA[1].22
+Tool Judge Value23	CV_X400:I.DATA[1].23
+Tool Judge Value24	CV_X400:I.DATA[1].24
+Tool Judge Value25	CV_X400:I.DATA[1].25
+Tool Judge Value26	CV_X400:I.DATA[1].26
+Tool Judge Value27	CV_X400:I.DATA[1].27
+Tool Judge Value28	CV_X400:I.DATA[1].28
+Tool Judge Value29	CV_X400:I.DATA[1].29
+Tool Judge Value30	CV_X400:I.DATA[1].30
+Tool Judge Value31	CV_X400:I.DATA[1].31
+Tool Judge Value32	CV_X400:I.DATA[2].0
+Tool Judge Value33	CV_X400:I.DATA[2].1
+Tool Judge Value34	CV_X400:I.DATA[2].2
+Tool Judge Value35	CV_X400:I.DATA[2].3
+Tool Judge Value36	CV_X400:I.DATA[2].4
+Tool Judge Value37	CV_X400:I.DATA[2].5
+Tool Judge Value38	CV_X400:I.DATA[2].6
+Tool Judge Value39	CV_X400:I.DATA[2].7
+Tool Judge Value40	CV_X400:I.DATA[2].8
+Tool Judge Value41	CV_X400:I.DATA[2].9
+Tool Judge Value42	CV_X400:I.DATA[2].10
+Tool Judge Value43	CV_X400:I.DATA[2].11
+Tool Judge Value44	CV_X400:I.DATA[2].12
+Tool Judge Value45	CV_X400:I.DATA[2].13
+Tool Judge Value46	CV_X400:I.DATA[2].14
+Tool Judge Value47	CV_X400:I.DATA[2].15
+Tool Judge Value48	CV_X400:I.DATA[2].16
+Tool Judge Value49	CV_X400:I.DATA[2].17
+Tool Judge Value50	CV_X400:I.DATA[2].18
+Tool Judge Value51	CV_X400:I.DATA[2].19
+Tool Judge Value52	CV_X400:I.DATA[2].20
+Tool Judge Value53	CV_X400:I.DATA[2].21
+Tool Judge Value54	CV_X400:I.DATA[2].22
+Tool Judge Value55	CV_X400:I.DATA[2].23
+Tool Judge Value56	CV_X400:I.DATA[2].24
+Tool Judge Value57	CV_X400:I.DATA[2].25
+Tool Judge Value58	CV_X400:I.DATA[2].26
+Tool Judge Value59	CV_X400:I.DATA[2].27
+Tool Judge Value60	CV_X400:I.DATA[2].28
+Tool Judge Value61	CV_X400:I.DATA[2].29
+Tool Judge Value62	CV_X400:I.DATA[2].30
+Tool Judge Value63	CV_X400:I.DATA[2].31
+Error Code	CV_X400:I.DATA[3].0
+Error Code	CV_X400:I.DATA[3].1
+Error Code	CV_X400:I.DATA[3].2
+Error Code	CV_X400:I.DATA[3].3
+Error Code	CV_X400:I.DATA[3].4
+Error Code	CV_X400:I.DATA[3].5
+Error Code	CV_X400:I.DATA[3].6
+Error Code	CV_X400:I.DATA[3].7
+Error Code	CV_X400:I.DATA[3].8
+Error Code	CV_X400:I.DATA[3].9
+Error Code	CV_X400:I.DATA[3].10
+Error Code	CV_X400:I.DATA[3].11
+Error Code	CV_X400:I.DATA[3].12
+Error Code	CV_X400:I.DATA[3].13
+Error Code	CV_X400:I.DATA[3].14
+Error Code	CV_X400:I.DATA[3].15
+Reserved	CV_X400:I.DATA[3].16
+Reserved	CV_X400:I.DATA[3].17
+Reserved	CV_X400:I.DATA[3].18
+Reserved	CV_X400:I.DATA[3].19
+Reserved	CV_X400:I.DATA[3].20
+Reserved	CV_X400:I.DATA[3].21
+Reserved	CV_X400:I.DATA[3].22
+Reserved	CV_X400:I.DATA[3].23
+Reserved	CV_X400:I.DATA[3].24
+Reserved	CV_X400:I.DATA[3].25
+Reserved	CV_X400:I.DATA[3].26
+Reserved	CV_X400:I.DATA[3].27
+Reserved	CV_X400:I.DATA[3].28
+Reserved	CV_X400:I.DATA[3].29
+Reserved	CV_X400:I.DATA[3].30
+Reserved	CV_X400:I.DATA[3].31
+Total Count	CV_X400:I.DATA[4]
+Command Result	CV_X400:I.DATA[5]
+Command Data1	CV_X400:I.DATA[6]
+Command Data2	CV_X400:I.DATA[7]
+Command Data3	CV_X400:I.DATA[8]
+Command Data4	CV_X400:I.DATA[9]
+Command Data5	CV_X400:I.DATA[10]
+Command Data6	CV_X400:I.DATA[11]
+Result Data1	CV_X400:I.DATA[12]
+Result Data2	CV_X400:I.DATA[13]
+Result Data3	CV_X400:I.DATA[14]
+Result Data4	CV_X400:I.DATA[15]
+Result Data5	CV_X400:I.DATA[16]
+Result Data6	CV_X400:I.DATA[17]
+Result Data7	CV_X400:I.DATA[18]
+Result Data8	CV_X400:I.DATA[19]
+Result Data9	CV_X400:I.DATA[20]
+Result Data10	CV_X400:I.DATA[21]
+Result Data11	CV_X400:I.DATA[22]
+Result Data12	CV_X400:I.DATA[23]
+Result Data13	CV_X400:I.DATA[24]
+Result Data14	CV_X400:I.DATA[25]
+Result Data15	CV_X400:I.DATA[26]
+Result Data16	CV_X400:I.DATA[27]
+Result Data17	CV_X400:I.DATA[28]
+Result Data18	CV_X400:I.DATA[29]
+Result Data19	CV_X400:I.DATA[30]
+Result Data20	CV_X400:I.DATA[31]
+Result Data21	CV_X400:I.DATA[32]
+Result Data22	CV_X400:I.DATA[33]
+Result Data23	CV_X400:I.DATA[34]
+Result Data24	CV_X400:I.DATA[35]
+Result Data25	CV_X400:I.DATA[36]
+Result Data26	CV_X400:I.DATA[37]
+Result Data27	CV_X400:I.DATA[38]
+Result Data28	CV_X400:I.DATA[39]
+Result Data29	CV_X400:I.DATA[40]
+Result Data30	CV_X400:I.DATA[41]
+Result Data31	CV_X400:I.DATA[42]
+Result Data32	CV_X400:I.DATA[43]
+Result Data33	CV_X400:I.DATA[44]
+Result Data34	CV_X400:I.DATA[45]
+Result Data35	CV_X400:I.DATA[46]
+Result Data36	CV_X400:I.DATA[47]
+Result Data37	CV_X400:I.DATA[48]
+Result Data38	CV_X400:I.DATA[49]
+Result Data39	CV_X400:I.DATA[50]
+Result Data40	CV_X400:I.DATA[51]
+Result Data41	CV_X400:I.DATA[52]
+Result Data42	CV_X400:I.DATA[53]
+Result Data43	CV_X400:I.DATA[54]
+Result Data44	CV_X400:I.DATA[55]
+Result Data45	CV_X400:I.DATA[56]
+Result Data46	CV_X400:I.DATA[57]
+Result Data47	CV_X400:I.DATA[58]
+Result Data48	CV_X400:I.DATA[59]
+Result Data49	CV_X400:I.DATA[60]
+Result Data50	CV_X400:I.DATA[61]
+Result Data51	CV_X400:I.DATA[62]
+Result Data52	CV_X400:I.DATA[63]
+Result Data53	CV_X400:I.DATA[64]
+Result Data54	CV_X400:I.DATA[65]
+Result Data55	CV_X400:I.DATA[66]
+Result Data56	CV_X400:I.DATA[67]
+Result Data57	CV_X400:I.DATA[68]
+Result Data58	CV_X400:I.DATA[69]
+Result Data59	CV_X400:I.DATA[70]
+Result Data60	CV_X400:I.DATA[71]
+Result Data61	CV_X400:I.DATA[72]
+Result Data62	CV_X400:I.DATA[73]
+Result Data63	CV_X400:I.DATA[74]
+Result Data64	CV_X400:I.DATA[75]
+Result Data65	CV_X400:I.DATA[76]
+Result Data66	CV_X400:I.DATA[77]
+Result Data67	CV_X400:I.DATA[78]
+Result Data68	CV_X400:I.DATA[79]
+Result Data69	CV_X400:I.DATA[80]
+Result Data70	CV_X400:I.DATA[81]
+Result Data71	CV_X400:I.DATA[82]
+Result Data72	CV_X400:I.DATA[83]
+Result Data73	CV_X400:I.DATA[84]
+Result Data74	CV_X400:I.DATA[85]
+Result Data75	CV_X400:I.DATA[86]
+Result Data76	CV_X400:I.DATA[87]
+Result Data77	CV_X400:I.DATA[88]
+Result Data78	CV_X400:I.DATA[89]
+Result Data79	CV_X400:I.DATA[90]
+Result Data80	CV_X400:I.DATA[91]
+Result Data81	CV_X400:I.DATA[92]
+Result Data82	CV_X400:I.DATA[93]
+Result Data83	CV_X400:I.DATA[94]
+Result Data84	CV_X400:I.DATA[95]
+Result Data85	CV_X400:I.DATA[96]
+Result Data86	CV_X400:I.DATA[97]
+Result Data87	CV_X400:I.DATA[98]
+Result Data88	CV_X400:I.DATA[99]
+Result Data89	CV_X400:I.DATA[100]
+Result Data90	CV_X400:I.DATA[101]
+Result Data91	CV_X400:I.DATA[102]
+Result Data92	CV_X400:I.DATA[103]
+Result Data93	CV_X400:I.DATA[104]
+Result Data94	CV_X400:I.DATA[105]
+Result Data95	CV_X400:I.DATA[106]
+Result Data96	CV_X400:I.DATA[107]
+Result Data97	CV_X400:I.DATA[108]
+Result Data98	CV_X400:I.DATA[109]
+Result Data99	CV_X400:I.DATA[110]
+Result Data100	CV_X400:I.DATA[111]
+Result Data101	CV_X400:I.DATA[112]
+Result Data102	CV_X400:I.DATA[113]
+Result Data103	CV_X400:I.DATA[114]
+Result Data104	CV_X400:I.DATA[115]
+Result Data105	CV_X400:I.DATA[116]
+Result Data106	CV_X400:I.DATA[117]
+Result Data107	CV_X400:I.DATA[118]
+Result Data108	CV_X400:I.DATA[119]
+Result Data109	CV_X400:I.DATA[120]
+Result Data110	CV_X400:I.DATA[121]
+Result Data111	CV_X400:I.DATA[122]
+Result Data112	CV_X400:I.DATA[123]
+Command Request Flag	CV_X400:O.DATA[0].0
+Reserved	CV_X400:O.DATA[0].1
+Reserved	CV_X400:O.DATA[0].2
+Result ack flag	CV_X400:O.DATA[0].3
+Error Reset Request	CV_X400:O.DATA[0].4
+Reserved	CV_X400:O.DATA[0].5
+Reserved	CV_X400:O.DATA[0].6
+Reserved	CV_X400:O.DATA[0].7
+TRG1	CV_X400:O.DATA[0].8
+TRG2	CV_X400:O.DATA[0].9
+TRG3	CV_X400:O.DATA[0].10
+TRG4	CV_X400:O.DATA[0].11
+Reserved	CV_X400:O.DATA[0].12
+Reserved	CV_X400:O.DATA[0].13
+Reserved	CV_X400:O.DATA[0].14
+Reserved	CV_X400:O.DATA[0].15
+RESET	CV_X400:O.DATA[0].16
+EXT	CV_X400:O.DATA[0].17
+TEST	CV_X400:O.DATA[0].18
+Reserved	CV_X400:O.DATA[0].19
+Reserved	CV_X400:O.DATA[0].20
+Reserved	CV_X400:O.DATA[0].21
+Reserved	CV_X400:O.DATA[0].22
+Reserved	CV_X400:O.DATA[0].23
+Reserved	CV_X400:O.DATA[0].24
+Reserved	CV_X400:O.DATA[0].25
+Reserved	CV_X400:O.DATA[0].26
+Reserved	CV_X400:O.DATA[0].27
+Reserved	CV_X400:O.DATA[0].28
+Reserved	CV_X400:O.DATA[0].29
+Reserved	CV_X400:O.DATA[0].30
+Reserved	CV_X400:O.DATA[0].31
+Reserved	CV_X400:O.DATA[1]
+Reserved	CV_X400:O.DATA[2]
+ExecCondNo / Reserved	CV_X400:O.DATA[3]
+ExecCondNo	CV_X400:O.DATA[3].0
+ExecCondNo	CV_X400:O.DATA[3].1
+ExecCondNo	CV_X400:O.DATA[3].2
+ExecCondNo	CV_X400:O.DATA[3].3
+ExecCondNo	CV_X400:O.DATA[3].4
+ExecCondNo	CV_X400:O.DATA[3].5
+ExecCondNo	CV_X400:O.DATA[3].6
+ExecCondNo	CV_X400:O.DATA[3].7
+ExecCondNo	CV_X400:O.DATA[3].8
+ExecCondNo	CV_X400:O.DATA[3].9
+ExecCondNo	CV_X400:O.DATA[3].10
+ExecCondNo	CV_X400:O.DATA[3].11
+ExecCondNo	CV_X400:O.DATA[3].12
+ExecCondNo	CV_X400:O.DATA[3].13
+ExecCondNo	CV_X400:O.DATA[3].14
+ExecCondNo	CV_X400:O.DATA[3].15
+Reserved	CV_X400:O.DATA[3].16
+Reserved	CV_X400:O.DATA[3].17
+Reserved	CV_X400:O.DATA[3].18
+Reserved	CV_X400:O.DATA[3].19
+Reserved	CV_X400:O.DATA[3].20
+Reserved	CV_X400:O.DATA[3].21
+Reserved	CV_X400:O.DATA[3].22
+Reserved	CV_X400:O.DATA[3].23
+Reserved	CV_X400:O.DATA[3].24
+Reserved	CV_X400:O.DATA[3].25
+Reserved	CV_X400:O.DATA[3].26
+Reserved	CV_X400:O.DATA[3].27
+Reserved	CV_X400:O.DATA[3].28
+Reserved	CV_X400:O.DATA[3].29
+Reserved	CV_X400:O.DATA[3].30
+Reserved	CV_X400:O.DATA[3].31
+Command Number	CV_X400:O.DATA[4]
+Command Parameter1	CV_X400:O.DATA[5]
+Command Parameter2	CV_X400:O.DATA[6]
+Command Parameter3	CV_X400:O.DATA[7]
+Command Parameter4	CV_X400:O.DATA[8]
+Command Parameter5	CV_X400:O.DATA[9]
+Command Parameter6	CV_X400:O.DATA[10]
+Command Parameter7	CV_X400:O.DATA[11]
+Command Parameter8	CV_X400:O.DATA[12]
+Command Parameter9	CV_X400:O.DATA[13]
+Command Parameter10	CV_X400:O.DATA[14]
+Command Parameter11	CV_X400:O.DATA[15]
+Command Parameter12	CV_X400:O.DATA[16]
+Command Parameter13	CV_X400:O.DATA[17]
+Command Parameter14	CV_X400:O.DATA[18]
+Command Parameter15	CV_X400:O.DATA[19]
+Command Parameter16	CV_X400:O.DATA[20]
+Command Parameter17	CV_X400:O.DATA[21]
+Command Parameter18	CV_X400:O.DATA[22]
+Command Parameter19	CV_X400:O.DATA[23]
+Command Parameter20	CV_X400:O.DATA[24]
+Command Parameter21	CV_X400:O.DATA[25]
+Command Parameter22	CV_X400:O.DATA[26]
+Command Parameter23	CV_X400:O.DATA[27]
+Command Parameter24	CV_X400:O.DATA[28]
+Command Parameter25	CV_X400:O.DATA[29]
+Command Parameter26	CV_X400:O.DATA[30]
+Command Parameter27	CV_X400:O.DATA[31]
+Command Parameter28	CV_X400:O.DATA[32]
+Command Parameter29	CV_X400:O.DATA[33]
+Command Parameter30	CV_X400:O.DATA[34]
+Command Parameter31	CV_X400:O.DATA[35]
+Command Parameter32	CV_X400:O.DATA[36]
+Command Parameter33	CV_X400:O.DATA[37]
+Command Parameter34	CV_X400:O.DATA[38]
+Command Parameter35	CV_X400:O.DATA[39]
+Command Parameter36	CV_X400:O.DATA[40]
+Command Parameter37	CV_X400:O.DATA[41]
+Command Parameter38	CV_X400:O.DATA[42]
+Command Parameter39	CV_X400:O.DATA[43]
+Command Parameter40	CV_X400:O.DATA[44]
+Command Parameter41	CV_X400:O.DATA[45]
+Command Parameter42	CV_X400:O.DATA[46]
+Command Parameter43	CV_X400:O.DATA[47]
+Command Parameter44	CV_X400:O.DATA[48]
+Command Parameter45	CV_X400:O.DATA[49]
+Command Parameter46	CV_X400:O.DATA[50]
+Command Parameter47	CV_X400:O.DATA[51]
+Command Parameter48	CV_X400:O.DATA[52]
+Command Parameter49	CV_X400:O.DATA[53]
+Command Parameter50	CV_X400:O.DATA[54]
+Command Parameter51	CV_X400:O.DATA[55]
+Command Parameter52	CV_X400:O.DATA[56]
+Command Parameter53	CV_X400:O.DATA[57]
+Command Parameter54	CV_X400:O.DATA[58]
+Command Parameter55	CV_X400:O.DATA[59]
+Command Parameter56	CV_X400:O.DATA[60]
+Command Parameter57	CV_X400:O.DATA[61]
+Command Parameter58	CV_X400:O.DATA[62]
+Command Parameter59	CV_X400:O.DATA[63]
+Command Parameter60	CV_X400:O.DATA[64]
+Command Parameter61	CV_X400:O.DATA[65]
+Command Parameter62	CV_X400:O.DATA[66]
+Command Parameter63	CV_X400:O.DATA[67]
+Command Parameter64	CV_X400:O.DATA[68]
+Command Parameter65	CV_X400:O.DATA[69]
+Command Parameter66	CV_X400:O.DATA[70]
+Command Parameter67	CV_X400:O.DATA[71]
+Command Parameter68	CV_X400:O.DATA[72]
+Command Parameter69	CV_X400:O.DATA[73]
+Command Parameter70	CV_X400:O.DATA[74]
+Command Parameter71	CV_X400:O.DATA[75]
+Command Parameter72	CV_X400:O.DATA[76]
+Command Parameter73	CV_X400:O.DATA[77]
+Command Parameter74	CV_X400:O.DATA[78]
+Command Parameter75	CV_X400:O.DATA[79]
+Command Parameter76	CV_X400:O.DATA[80]
+Command Parameter77	CV_X400:O.DATA[81]
+Command Parameter78	CV_X400:O.DATA[82]
+Command Parameter79	CV_X400:O.DATA[83]
+Command Parameter80	CV_X400:O.DATA[84]
+Command Parameter81	CV_X400:O.DATA[85]
+Command Parameter82	CV_X400:O.DATA[86]
+Command Parameter83	CV_X400:O.DATA[87]
+Command Parameter84	CV_X400:O.DATA[88]
+Command Parameter85	CV_X400:O.DATA[89]
+Command Parameter86	CV_X400:O.DATA[90]
+Command Parameter87	CV_X400:O.DATA[91]
+Command Parameter88	CV_X400:O.DATA[92]
+Command Parameter89	CV_X400:O.DATA[93]
+Command Parameter90	CV_X400:O.DATA[94]
+Command Parameter91	CV_X400:O.DATA[95]
+Command Parameter92	CV_X400:O.DATA[96]
+Command Parameter93	CV_X400:O.DATA[97]
+Command Parameter94	CV_X400:O.DATA[98]
+Command Parameter95	CV_X400:O.DATA[99]
+Command Parameter96	CV_X400:O.DATA[100]
+Command Parameter97	CV_X400:O.DATA[101]
+Command Parameter98	CV_X400:O.DATA[102]
+Command Parameter99	CV_X400:O.DATA[103]
+Command Parameter100	CV_X400:O.DATA[104]
+Command Parameter101	CV_X400:O.DATA[105]
+Command Parameter102	CV_X400:O.DATA[106]
+Command Parameter103	CV_X400:O.DATA[107]
+Command Parameter104	CV_X400:O.DATA[108]
+Command Parameter105	CV_X400:O.DATA[109]
+Command Parameter106	CV_X400:O.DATA[110]
+Command Parameter107	CV_X400:O.DATA[111]
+Command Parameter108	CV_X400:O.DATA[112]
+Command Parameter109	CV_X400:O.DATA[113]
+Command Parameter110	CV_X400:O.DATA[114]
+Command Parameter111	CV_X400:O.DATA[115]
+Command Parameter112	CV_X400:O.DATA[116]
+Command Parameter113	CV_X400:O.DATA[117]
+Command Parameter114	CV_X400:O.DATA[118]
+Command Parameter115	CV_X400:O.DATA[119]
+Command Parameter116	CV_X400:O.DATA[120]
+Command Parameter117	CV_X400:O.DATA[121]
+Command Parameter118	CV_X400:O.DATA[122]
+Command Parameter119	CV_X400:O.DATA[123]

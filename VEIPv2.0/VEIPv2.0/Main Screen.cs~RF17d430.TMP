@@ -1,0 +1,185 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.IO;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using System.Threading;
+
+namespace VEIPv2._0
+{
+    public partial class MainForm : Form
+    {
+        static string[] tagsFile = Properties.Resources.VEIP2_Tags.Split('\n');
+        static int tagIndex = 0;
+        //static StreamReader tagsFile = new StreamReader(@"C:\Users\beng\Desktop\VEIP2_Tags.csv");
+        static string currentTag = "";
+        static EIPConnectionManager EIPManager = new EIPConnectionManager();
+        List<Sres.Net.EEIP.Encapsulation.CIPIdentityItem> CIPList;
+        FoundDeviceBtn.FoundConnection[] FoundButtonList;
+
+        public MainForm()
+        {
+            InitializeComponent();
+        }
+
+        private void MainForm_Load(object sender, EventArgs e)
+        {
+            DrawInputBits();
+            DrawInputBytes();
+            DrawOutputBits();
+            DrawOutputBytes();
+
+            InputBitsTable_DrawScroll();
+            InputBytesTable_DrawScroll();
+            OutputBitsTable_DrawScroll();
+            OutputBytesTable_DrawScroll();
+            Thread connectionThread = new Thread(new ThreadStart(ThreadProc));
+
+        }
+
+        private void DrawOutputBytes()
+        {
+            for (int i = 4; i < 124; i++)
+            {
+                currentTag = tagsFile[tagIndex];
+                tagIndex++;
+                CustomControl.BytesControl newByte = new CustomControl.BytesControl(i, currentTag, true);
+                OutputByteTable.Controls.Add(newByte);
+            }
+        }
+
+        private void DrawInputBytes()
+        {
+            for (int i = 4; i < 124; i++)
+            {
+                currentTag = tagsFile[tagIndex];
+                tagIndex++;
+                CustomControl.BytesControl newByte = new CustomControl.BytesControl(i, currentTag, false);
+                InputBytesTable.Controls.Add(newByte);
+            }
+        }
+
+        private void DrawOutputBits()
+        {
+            for (int i = 0; i < 4; i++)
+            {
+                for (int j = 0; j < 32; j++)
+                {
+                    currentTag = tagsFile[tagIndex];
+                    tagIndex++;
+                    CustomControl.BitsControl newBits = new CustomControl.BitsControl(i, j, currentTag, true);
+                    OutputBitsTable.Controls.Add(newBits);
+                }
+            }
+        }
+
+        private void DrawInputBits()
+        {
+            for (int i = 0; i < 4; i++)
+            {
+                for (int j = 0; j < 32; j++)
+                {
+
+                    currentTag = tagsFile[tagIndex];
+                    tagIndex++;
+                    CustomControl.BitsControl newBits = new CustomControl.BitsControl(i, j, currentTag, false);
+                    InputBitsTable.Controls.Add(newBits);
+                }
+            }
+            
+        }
+
+        private void InputBitsTable_DrawScroll()
+        {
+            
+            InputBitsTable.HorizontalScroll.Maximum = 0;
+            InputBitsTable.AutoScroll = false;
+            InputBitsTable.VerticalScroll.Visible = false;
+            InputBitsTable.AutoScroll = true;
+        }
+
+        private void OutputBitsTable_DrawScroll()
+        {
+            OutputBitsTable.HorizontalScroll.Maximum = 0;
+            OutputBitsTable.AutoScroll = false;
+            OutputBitsTable.VerticalScroll.Visible = false;
+            OutputBitsTable.AutoScroll = true;
+        }
+
+        private void InputBytesTable_DrawScroll()
+        {
+            InputBytesTable.HorizontalScroll.Maximum = 0;
+            InputBytesTable.AutoScroll = false;
+            InputBytesTable.VerticalScroll.Visible = false;
+            InputBytesTable.AutoScroll = true;
+        }
+
+        private void OutputBytesTable_DrawScroll()
+        {
+            OutputByteTable.HorizontalScroll.Maximum = 0;
+            OutputByteTable.AutoScroll = false;
+            OutputByteTable.VerticalScroll.Visible = false;
+            OutputByteTable.AutoScroll = true;
+        }
+
+        /*This method:
+         * 1) gets the CIP list
+         * 2) Creates an array of connection buttons
+         * 3) populates the button array by
+         *      a) creating a new button
+         *      b) suscribing to custom made event handler that activates when the button is clicked
+         * 4) adds the button to the main screen.
+         */
+        private void SearchBtn_Click(object sender, EventArgs e)
+        {
+            CIPList = EIPManager.Search();
+            int listLength = CIPList.Count;
+            FoundButtonList = new FoundDeviceBtn.FoundConnection[listLength];
+            for (int i = 0; i < listLength; i++)
+            {
+                FoundButtonList[i] = new FoundDeviceBtn.FoundConnection(CIPList[i]);
+                FoundButtonList[i].ConnectionBtn_Clicked += FoundConnectionButton_Click;
+                ConnectionButtonList.Controls.Add(FoundButtonList[i]);
+                
+            }
+
+            ConnectionButtonList.HorizontalScroll.Enabled = false;
+            ConnectionButtonList.HorizontalScroll.Visible = false;
+            ConnectionButtonList.Refresh();
+        }
+
+        public void ConnectFromList(string IPfromButton)
+        {
+            EIPManager.Connect(IPfromButton);
+        }
+
+        public void FoundConnectionButton_Click(object sender, EventArgs e)
+        {
+            FoundDeviceBtn.FoundConnection btn = sender as FoundDeviceBtn.FoundConnection;
+            string connectionStatus = EIPManager.Connect(btn.ipAddress);
+            ConnectionInfo.Text += connectionStatus;
+            Console.WriteLine("I made it to the FoundConnectionButton_Click method!");
+            Console.WriteLine("The IP Address is: " + btn.ipAddress);
+        }
+
+        private void ConnectBrn_Click(object sender, EventArgs e)
+        {
+            EIPManager.Connect(IPInputString.Text);
+        }
+
+        private void CloseConnectionBtn_Click(object sender, EventArgs e)
+        {
+            EIPManager.Close();
+        }
+
+        public static void ThreadProc()
+        {
+            EIPManager.work();
+        }
+    }
+}

@@ -1,0 +1,91 @@
+C:\Users\beng\documents\visual studio 2015\Projects\VEIPv2.0\VEIPv2.0\bin\Debug\VEIPv2.0.exe.config
+C:\Users\beng\documents\visual studio 2015\Projects\VEIPv2.0\VEIPv2.0\bin\Debug\VEIPv2.0.exe
+C:\Users\beng\documents\visual studio 2015\Projects\VEIPv2.0\VEIPv2.0\bin\Debug\VEIPv2.0.pdb
+C:\Users\beng\documents\visual studio 2015\Projects\VEIPv2.0\VEIPv2.0\bin\Debug\ActiveXControls.exe
+C:\Users\beng\documents\visual studio 2015\Projects\VEIPv2.0\VEIPv2.0\bin\Debug\BytesControl.dll
+C:\Users\beng\documents\visual studio 2015\Projects\VEIPv2.0\VEIPv2.0\bin\Debug\EEIP.dll
+C:\Users\beng\documents\visual studio 2015\Projects\VEIPv2.0\VEIPv2.0\bin\Debug\OutputBitsControl.dll
+C:\Users\beng\documents\visual studio 2015\Projects\VEIPv2.0\VEIPv2.0\bin\Debug\AxInterop.CVXLib.dll
+C:\Users\beng\documents\visual studio 2015\Projects\VEIPv2.0\VEIPv2.0\bin\Debug\AxInterop.XGXLib.dll
+C:\Users\beng\documents\visual studio 2015\Projects\VEIPv2.0\VEIPv2.0\bin\Debug\Interop.CVXLib.dll
+C:\Users\beng\documents\visual studio 2015\Projects\VEIPv2.0\VEIPv2.0\bin\Debug\Interop.XGXLib.dll
+C:\Users\beng\documents\visual studio 2015\Projects\VEIPv2.0\VEIPv2.0\bin\Debug\ActiveXControls.pdb
+C:\Users\beng\documents\visual studio 2015\Projects\VEIPv2.0\VEIPv2.0\bin\Debug\BytesControl.pdb
+C:\Users\beng\documents\visual studio 2015\Projects\VEIPv2.0\VEIPv2.0\bin\Debug\OutputBitsControl.pdb
+C:\Users\beng\documents\visual studio 2015\Projects\VEIPv2.0\VEIPv2.0\obj\Debug\VEIPv2.0.csprojResolveAssemblyReference.cache
+C:\Users\beng\documents\visual studio 2015\Projects\VEIPv2.0\VEIPv2.0\obj\Debug\VEIPv2._0.MainForm.resources
+C:\Users\beng\documents\visual studio 2015\Projects\VEIPv2.0\VEIPv2.0\obj\Debug\VEIPv2._0.Properties.Resources.resources
+C:\Users\beng\documents\visual studio 2015\Projects\VEIPv2.0\VEIPv2.0\obj\Debug\VEIPv2.0.csproj.GenerateResource.Cache
+C:\Users\beng\documents\visual studio 2015\Projects\VEIPv2.0\VEIPv2.0\obj\Debug\VEIPv2.0.exe
+C:\Users\beng\documents\visual studio 2015\Projects\VEIPv2.0\VEIPv2.0\obj\Debug\VEIPv2.0.pdb
+C:\Users\beng\documents\visual studio 2015\Projects\VEIPv2.0\VEIPv2.0\bin\Debug\Resources\VEIP2_Tags.csv
+C:\Users\beng\documents\visual studio 2015\Projects\VEIPv2.0\VEIPv2.0\bin\Debug\FoundDeviceBtn.dll
+C:\Users\beng\documents\visual studio 2015\Projects\VEIPv2.0\VEIPv2.0\bin\Debug\FoundDeviceBtn.pdb
+C:\Users\BEng\Desktop\VEIPv2.0\VEIPv2.0\bin\Debug\Resources\VEIP2_Tags.csv
+C:\Users\BEng\Desktop\VEIPv2.0\VEIPv2.0\bin\Debug\VEIPv2.0.exe.config
+C:\Users\BEng\Desktop\VEIPv2.0\VEIPv2.0\bin\Debug\VEIPv2.0.exe
+C:\Users\BEng\Desktop\VEIPv2.0\VEIPv2.0\bin\Debug\VEIPv2.0.pdb
+C:\Users\BEng\Desktop\VEIPv2.0\VEIPv2.0\bin\Debug\ActiveXControls.exe
+C:\Users\BEng\Desktop\VEIPv2.0\VEIPv2.0\bin\Debug\BytesControl.dll
+C:\Users\BEng\Desktop\VEIPv2.0\VEIPv2.0\bin\Debug\FoundDeviceBtn.dll
+C:\Users\BEng\Desktop\VEIPv2.0\VEIPv2.0\bin\Debug\OutputBitsControl.dll
+C:\Users\BEng\Desktop\VEIPv2.0\VEIPv2.0\bin\Debug\AxInterop.CVXLib.dll
+C:\Users\BEng\Desktop\VEIPv2.0\VEIPv2.0\bin\Debug\AxInterop.XGXLib.dll
+C:\Users\BEng\Desktop\VEIPv2.0\VEIPv2.0\bin\Debug\Interop.CVXLib.dll
+C:\Users\BEng\Desktop\VEIPv2.0\VEIPv2.0\bin\Debug\Interop.XGXLib.dll
+C:\Users\BEng\Desktop\VEIPv2.0\VEIPv2.0\bin\Debug\ActiveXControls.pdb
+C:\Users\BEng\Desktop\VEIPv2.0\VEIPv2.0\bin\Debug\ActiveXControls.exe.config
+C:\Users\BEng\Desktop\VEIPv2.0\VEIPv2.0\bin\Debug\BytesControl.pdb
+C:\Users\BEng\Desktop\VEIPv2.0\VEIPv2.0\bin\Debug\FoundDeviceBtn.pdb
+C:\Users\BEng\Desktop\VEIPv2.0\VEIPv2.0\bin\Debug\OutputBitsControl.pdb
+C:\Users\BEng\Desktop\VEIPv2.0\VEIPv2.0\obj\Debug\VEIPv2.0.csprojAssemblyReference.cache
+C:\Users\BEng\Desktop\VEIPv2.0\VEIPv2.0\obj\Debug\VEIPv2._0.MainForm.resources
+C:\Users\BEng\Desktop\VEIPv2.0\VEIPv2.0\obj\Debug\VEIPv2._0.Properties.Resources.resources
+C:\Users\BEng\Desktop\VEIPv2.0\VEIPv2.0\obj\Debug\VEIPv2.0.csproj.GenerateResource.cache
+C:\Users\BEng\Desktop\VEIPv2.0\VEIPv2.0\obj\Debug\VEIPv2.0.csproj.CoreCompileInputs.cache
+C:\Users\BEng\Desktop\VEIPv2.0\VEIPv2.0\obj\Debug\VEIPv2.0.csproj.CopyComplete
+C:\Users\BEng\Desktop\VEIPv2.0\VEIPv2.0\obj\Debug\VEIPv2.0.exe
+C:\Users\BEng\Desktop\VEIPv2.0\VEIPv2.0\obj\Debug\VEIPv2.0.pdb
+C:\Users\BEng\source\repos\VEIPv2.0\VEIPv2.0\bin\Debug\Resources\VEIP2_Tags.csv
+C:\Users\BEng\source\repos\VEIPv2.0\VEIPv2.0\bin\Debug\VEIPv2.0.exe.config
+C:\Users\BEng\source\repos\VEIPv2.0\VEIPv2.0\bin\Debug\VEIPv2.0.exe
+C:\Users\BEng\source\repos\VEIPv2.0\VEIPv2.0\bin\Debug\VEIPv2.0.pdb
+C:\Users\BEng\source\repos\VEIPv2.0\VEIPv2.0\bin\Debug\ActiveXControls.exe
+C:\Users\BEng\source\repos\VEIPv2.0\VEIPv2.0\bin\Debug\BytesControl.dll
+C:\Users\BEng\source\repos\VEIPv2.0\VEIPv2.0\bin\Debug\FoundDeviceBtn.dll
+C:\Users\BEng\source\repos\VEIPv2.0\VEIPv2.0\bin\Debug\OutputBitsControl.dll
+C:\Users\BEng\source\repos\VEIPv2.0\VEIPv2.0\bin\Debug\AxInterop.CVXLib.dll
+C:\Users\BEng\source\repos\VEIPv2.0\VEIPv2.0\bin\Debug\AxInterop.XGXLib.dll
+C:\Users\BEng\source\repos\VEIPv2.0\VEIPv2.0\bin\Debug\Interop.CVXLib.dll
+C:\Users\BEng\source\repos\VEIPv2.0\VEIPv2.0\bin\Debug\Interop.XGXLib.dll
+C:\Users\BEng\source\repos\VEIPv2.0\VEIPv2.0\bin\Debug\ActiveXControls.pdb
+C:\Users\BEng\source\repos\VEIPv2.0\VEIPv2.0\bin\Debug\ActiveXControls.exe.config
+C:\Users\BEng\source\repos\VEIPv2.0\VEIPv2.0\bin\Debug\BytesControl.pdb
+C:\Users\BEng\source\repos\VEIPv2.0\VEIPv2.0\bin\Debug\FoundDeviceBtn.pdb
+C:\Users\BEng\source\repos\VEIPv2.0\VEIPv2.0\bin\Debug\OutputBitsControl.pdb
+C:\Users\BEng\source\repos\VEIPv2.0\VEIPv2.0\obj\Debug\VEIPv2.0.csprojAssemblyReference.cache
+C:\Users\BEng\source\repos\VEIPv2.0\VEIPv2.0\obj\Debug\VEIPv2._0.MainForm.resources
+C:\Users\BEng\source\repos\VEIPv2.0\VEIPv2.0\obj\Debug\VEIPv2._0.Properties.Resources.resources
+C:\Users\BEng\source\repos\VEIPv2.0\VEIPv2.0\obj\Debug\VEIPv2.0.csproj.GenerateResource.cache
+C:\Users\BEng\source\repos\VEIPv2.0\VEIPv2.0\obj\Debug\VEIPv2.0.csproj.CopyComplete
+C:\Users\BEng\source\repos\VEIPv2.0\VEIPv2.0\obj\Debug\VEIPv2.0.exe
+C:\Users\BEng\source\repos\VEIPv2.0\VEIPv2.0\obj\Debug\VEIPv2.0.pdb
+C:\Users\beng\source\repos\VEIPv2.0\VEIPv2.0\obj\Debug\VEIPv2.0.csproj.CoreCompileInputs.cache
+E:\howards_random_stuff\projects\keyence_ftp_examples\VEIPv2.0\VEIPv2.0\bin\Debug\Resources\VEIP2_Tags.csv
+E:\howards_random_stuff\projects\keyence_ftp_examples\VEIPv2.0\VEIPv2.0\bin\Debug\VEIPv2.0.exe.config
+E:\howards_random_stuff\projects\keyence_ftp_examples\VEIPv2.0\VEIPv2.0\bin\Debug\VEIPv2.0.exe
+E:\howards_random_stuff\projects\keyence_ftp_examples\VEIPv2.0\VEIPv2.0\bin\Debug\VEIPv2.0.pdb
+E:\howards_random_stuff\projects\keyence_ftp_examples\VEIPv2.0\VEIPv2.0\bin\Debug\BytesControl.dll
+E:\howards_random_stuff\projects\keyence_ftp_examples\VEIPv2.0\VEIPv2.0\bin\Debug\FoundDeviceBtn.dll
+E:\howards_random_stuff\projects\keyence_ftp_examples\VEIPv2.0\VEIPv2.0\bin\Debug\OutputBitsControl.dll
+E:\howards_random_stuff\projects\keyence_ftp_examples\VEIPv2.0\VEIPv2.0\bin\Debug\BytesControl.pdb
+E:\howards_random_stuff\projects\keyence_ftp_examples\VEIPv2.0\VEIPv2.0\bin\Debug\FoundDeviceBtn.pdb
+E:\howards_random_stuff\projects\keyence_ftp_examples\VEIPv2.0\VEIPv2.0\bin\Debug\OutputBitsControl.pdb
+E:\howards_random_stuff\projects\keyence_ftp_examples\VEIPv2.0\VEIPv2.0\obj\Debug\VEIPv2.0.csproj.AssemblyReference.cache
+E:\howards_random_stuff\projects\keyence_ftp_examples\VEIPv2.0\VEIPv2.0\obj\Debug\VEIPv2._0.MainForm.resources
+E:\howards_random_stuff\projects\keyence_ftp_examples\VEIPv2.0\VEIPv2.0\obj\Debug\VEIPv2._0.Properties.Resources.resources
+E:\howards_random_stuff\projects\keyence_ftp_examples\VEIPv2.0\VEIPv2.0\obj\Debug\VEIPv2.0.csproj.GenerateResource.cache
+E:\howards_random_stuff\projects\keyence_ftp_examples\VEIPv2.0\VEIPv2.0\obj\Debug\VEIPv2.0.csproj.CoreCompileInputs.cache
+E:\howards_random_stuff\projects\keyence_ftp_examples\VEIPv2.0\VEIPv2.0\obj\Debug\VEIPv2.0.csproj.CopyComplete
+E:\howards_random_stuff\projects\keyence_ftp_examples\VEIPv2.0\VEIPv2.0\obj\Debug\VEIPv2.0.exe
+E:\howards_random_stuff\projects\keyence_ftp_examples\VEIPv2.0\VEIPv2.0\obj\Debug\VEIPv2.0.pdb

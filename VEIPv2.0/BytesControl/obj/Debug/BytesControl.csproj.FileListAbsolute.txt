@@ -1,0 +1,42 @@
+C:\Users\beng\documents\visual studio 2015\Projects\VEIPv2.0\BytesControl\bin\Debug\BytesControl.dll
+C:\Users\beng\documents\visual studio 2015\Projects\VEIPv2.0\BytesControl\bin\Debug\BytesControl.pdb
+C:\Users\beng\documents\visual studio 2015\Projects\VEIPv2.0\BytesControl\bin\Debug\OutputBitsControl.dll
+C:\Users\beng\documents\visual studio 2015\Projects\VEIPv2.0\BytesControl\bin\Debug\OutputBitsControl.pdb
+C:\Users\beng\documents\visual studio 2015\Projects\VEIPv2.0\BytesControl\obj\Debug\BytesControl.csprojResolveAssemblyReference.cache
+C:\Users\beng\documents\visual studio 2015\Projects\VEIPv2.0\BytesControl\obj\Debug\CustomControl.BytesControl.resources
+C:\Users\beng\documents\visual studio 2015\Projects\VEIPv2.0\BytesControl\obj\Debug\BytesControl.csproj.GenerateResource.Cache
+C:\Users\beng\documents\visual studio 2015\Projects\VEIPv2.0\BytesControl\obj\Debug\BytesControl.dll
+C:\Users\beng\documents\visual studio 2015\Projects\VEIPv2.0\BytesControl\obj\Debug\BytesControl.pdb
+C:\Users\BEng\Desktop\VEIPv2.0\BytesControl\bin\Debug\BytesControl.dll
+C:\Users\BEng\Desktop\VEIPv2.0\BytesControl\bin\Debug\BytesControl.pdb
+C:\Users\BEng\Desktop\VEIPv2.0\BytesControl\bin\Debug\OutputBitsControl.dll
+C:\Users\BEng\Desktop\VEIPv2.0\BytesControl\bin\Debug\OutputBitsControl.pdb
+C:\Users\BEng\Desktop\VEIPv2.0\BytesControl\obj\Debug\BytesControl.csprojAssemblyReference.cache
+C:\Users\BEng\Desktop\VEIPv2.0\BytesControl\obj\Debug\CustomControl.BytesControl.resources
+C:\Users\BEng\Desktop\VEIPv2.0\BytesControl\obj\Debug\BytesControl.csproj.GenerateResource.cache
+C:\Users\BEng\Desktop\VEIPv2.0\BytesControl\obj\Debug\BytesControl.csproj.CoreCompileInputs.cache
+C:\Users\BEng\Desktop\VEIPv2.0\BytesControl\obj\Debug\BytesControl.csproj.CopyComplete
+C:\Users\BEng\Desktop\VEIPv2.0\BytesControl\obj\Debug\BytesControl.dll
+C:\Users\BEng\Desktop\VEIPv2.0\BytesControl\obj\Debug\BytesControl.pdb
+C:\Users\BEng\source\repos\VEIPv2.0\BytesControl\bin\Debug\BytesControl.dll
+C:\Users\BEng\source\repos\VEIPv2.0\BytesControl\bin\Debug\BytesControl.pdb
+C:\Users\BEng\source\repos\VEIPv2.0\BytesControl\bin\Debug\OutputBitsControl.dll
+C:\Users\BEng\source\repos\VEIPv2.0\BytesControl\bin\Debug\OutputBitsControl.pdb
+C:\Users\BEng\source\repos\VEIPv2.0\BytesControl\obj\Debug\BytesControl.csprojAssemblyReference.cache
+C:\Users\BEng\source\repos\VEIPv2.0\BytesControl\obj\Debug\CustomControl.BytesControl.resources
+C:\Users\BEng\source\repos\VEIPv2.0\BytesControl\obj\Debug\BytesControl.csproj.GenerateResource.cache
+C:\Users\BEng\source\repos\VEIPv2.0\BytesControl\obj\Debug\BytesControl.csproj.CopyComplete
+C:\Users\BEng\source\repos\VEIPv2.0\BytesControl\obj\Debug\BytesControl.dll
+C:\Users\BEng\source\repos\VEIPv2.0\BytesControl\obj\Debug\BytesControl.pdb
+C:\Users\beng\source\repos\VEIPv2.0\BytesControl\obj\Debug\BytesControl.csproj.CoreCompileInputs.cache
+E:\howards_random_stuff\projects\keyence_ftp_examples\VEIPv2.0\BytesControl\bin\Debug\BytesControl.dll
+E:\howards_random_stuff\projects\keyence_ftp_examples\VEIPv2.0\BytesControl\bin\Debug\BytesControl.pdb
+E:\howards_random_stuff\projects\keyence_ftp_examples\VEIPv2.0\BytesControl\bin\Debug\OutputBitsControl.dll
+E:\howards_random_stuff\projects\keyence_ftp_examples\VEIPv2.0\BytesControl\bin\Debug\OutputBitsControl.pdb
+E:\howards_random_stuff\projects\keyence_ftp_examples\VEIPv2.0\BytesControl\obj\Debug\BytesControl.csproj.AssemblyReference.cache
+E:\howards_random_stuff\projects\keyence_ftp_examples\VEIPv2.0\BytesControl\obj\Debug\CustomControl.BytesControl.resources
+E:\howards_random_stuff\projects\keyence_ftp_examples\VEIPv2.0\BytesControl\obj\Debug\BytesControl.csproj.GenerateResource.cache
+E:\howards_random_stuff\projects\keyence_ftp_examples\VEIPv2.0\BytesControl\obj\Debug\BytesControl.csproj.CoreCompileInputs.cache
+E:\howards_random_stuff\projects\keyence_ftp_examples\VEIPv2.0\BytesControl\obj\Debug\BytesControl.csproj.CopyComplete
+E:\howards_random_stuff\projects\keyence_ftp_examples\VEIPv2.0\BytesControl\obj\Debug\BytesControl.dll
+E:\howards_random_stuff\projects\keyence_ftp_examples\VEIPv2.0\BytesControl\obj\Debug\BytesControl.pdb

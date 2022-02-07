@@ -1,0 +1,22 @@
+C:\Users\beng\Documents\Visual Studio 2015\Projects\VEIPv2.0\OutputBitsControl\bin\Release\OutputBitsControl.dll
+C:\Users\beng\Documents\Visual Studio 2015\Projects\VEIPv2.0\OutputBitsControl\bin\Release\OutputBitsControl.pdb
+C:\Users\beng\Documents\Visual Studio 2015\Projects\VEIPv2.0\OutputBitsControl\obj\Release\CustomControl.BitsControl.resources
+C:\Users\beng\Documents\Visual Studio 2015\Projects\VEIPv2.0\OutputBitsControl\obj\Release\BitsControl.csproj.GenerateResource.Cache
+C:\Users\beng\Documents\Visual Studio 2015\Projects\VEIPv2.0\OutputBitsControl\obj\Release\OutputBitsControl.dll
+C:\Users\beng\Documents\Visual Studio 2015\Projects\VEIPv2.0\OutputBitsControl\obj\Release\OutputBitsControl.pdb
+C:\Users\BEng\Desktop\VEIPv2.0\OutputBitsControl\bin\Release\OutputBitsControl.dll
+C:\Users\BEng\Desktop\VEIPv2.0\OutputBitsControl\bin\Release\OutputBitsControl.pdb
+C:\Users\BEng\Desktop\VEIPv2.0\OutputBitsControl\obj\Release\BitsControl.csprojAssemblyReference.cache
+C:\Users\BEng\Desktop\VEIPv2.0\OutputBitsControl\obj\Release\CustomControl.BitsControl.resources
+C:\Users\BEng\Desktop\VEIPv2.0\OutputBitsControl\obj\Release\BitsControl.csproj.GenerateResource.cache
+C:\Users\BEng\Desktop\VEIPv2.0\OutputBitsControl\obj\Release\BitsControl.csproj.CoreCompileInputs.cache
+C:\Users\BEng\Desktop\VEIPv2.0\OutputBitsControl\obj\Release\OutputBitsControl.dll
+C:\Users\BEng\Desktop\VEIPv2.0\OutputBitsControl\obj\Release\OutputBitsControl.pdb
+C:\Users\BEng\source\repos\VEIPv2.0\OutputBitsControl\bin\Release\OutputBitsControl.dll
+C:\Users\BEng\source\repos\VEIPv2.0\OutputBitsControl\bin\Release\OutputBitsControl.pdb
+C:\Users\BEng\source\repos\VEIPv2.0\OutputBitsControl\obj\Release\BitsControl.csprojAssemblyReference.cache
+C:\Users\BEng\source\repos\VEIPv2.0\OutputBitsControl\obj\Release\CustomControl.BitsControl.resources
+C:\Users\BEng\source\repos\VEIPv2.0\OutputBitsControl\obj\Release\BitsControl.csproj.GenerateResource.cache
+C:\Users\BEng\source\repos\VEIPv2.0\OutputBitsControl\obj\Release\OutputBitsControl.dll
+C:\Users\BEng\source\repos\VEIPv2.0\OutputBitsControl\obj\Release\OutputBitsControl.pdb
+C:\Users\beng\source\repos\VEIPv2.0\OutputBitsControl\obj\Release\BitsControl.csproj.CoreCompileInputs.cache

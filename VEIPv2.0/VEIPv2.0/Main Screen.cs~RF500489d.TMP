@@ -1,0 +1,76 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.IO;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace VEIPv2._0
+{
+    public partial class MainForm : Form
+    {
+        static StreamReader tagsFile = new StreamReader(@"C:\Users\beng\Desktop\VEIP2_Tags.csv");
+        static string currentTag = "";
+
+        public MainForm()
+        {
+            InitializeComponent();
+        }
+
+        private void MainForm_Load(object sender, EventArgs e)
+        {
+            DrawInputBits();
+            DrawInputBytes();
+            DrawOutputBits();
+            DrawOutputBytes();
+        }
+
+        private void DrawOutputBytes()
+        {
+            for (int i = 4; i < 124; i++)
+            {
+                currentTag = tagsFile.ReadLine();
+
+                //OutputByteTable.Controls.Add(newBit);
+            }
+        }
+
+        private void DrawInputBytes()
+        {
+            for (int i = 4; i < 124; i++)
+            {
+                currentTag = tagsFile.ReadLine();
+            }
+        }
+
+        private void DrawOutputBits()
+        {
+            for (int i = 0; i < 4; i++)
+            {
+                for (int j = 0; j < 32; j++)
+                {
+                    currentTag = tagsFile.ReadLine();
+                    CustomControl1.BitsControl newBit = new CustomControl1.BitsControl(i, j, currentTag);
+                    OutputBitsTable.Controls.Add(newBit);
+                }
+            }
+        }
+
+        private void DrawInputBits()
+        {
+            for (int i = 0; i < 4; i++)
+            {
+                for (int j = 0; j < 32; j++)
+                {
+                    currentTag = tagsFile.ReadLine();
+                    CustomControl1.BitsControl newBit = new CustomControl1.BitsControl(i, j, currentTag);
+                    InputBitsTable.Controls.Add(newBit);
+                }
+            }
+        }
+    }
+}

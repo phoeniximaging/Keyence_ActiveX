@@ -1,0 +1,7 @@
+C:\Users\beng\documents\visual studio 2015\Projects\VEIPv2.0\OutputBitsControl\bin\Debug\OutputBitsControl.dll
+C:\Users\beng\documents\visual studio 2015\Projects\VEIPv2.0\OutputBitsControl\bin\Debug\OutputBitsControl.pdb
+C:\Users\beng\documents\visual studio 2015\Projects\VEIPv2.0\OutputBitsControl\obj\Debug\OutputBitsControl.csprojResolveAssemblyReference.cache
+C:\Users\beng\documents\visual studio 2015\Projects\VEIPv2.0\OutputBitsControl\obj\Debug\OutputBitsControl.UserControl1.resources
+C:\Users\beng\documents\visual studio 2015\Projects\VEIPv2.0\OutputBitsControl\obj\Debug\OutputBitsControl.csproj.GenerateResource.Cache
+C:\Users\beng\documents\visual studio 2015\Projects\VEIPv2.0\OutputBitsControl\obj\Debug\OutputBitsControl.dll
+C:\Users\beng\documents\visual studio 2015\Projects\VEIPv2.0\OutputBitsControl\obj\Debug\OutputBitsControl.pdb

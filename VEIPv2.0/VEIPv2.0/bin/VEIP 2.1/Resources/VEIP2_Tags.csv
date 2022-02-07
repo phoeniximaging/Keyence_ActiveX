@@ -1,0 +1,496 @@
+Command Complete Flag
+Command Error Flag
+Command Ready Flag
+Result Ready Flag
+Result OR Flag
+Reserved
+Reserved
+Reserved
+READY1
+READY2
+READY3
+READY4
+Reserved
+Reserved
+Reserved
+Reserved
+ACK1
+ACK2
+ACK3
+ACK4
+Reserved
+Reserved
+Reserved
+Reserved
+BUSY
+ERROR
+Reserved
+RUN
+Reserved
+Reserved
+Reserved
+Reserved
+Tool Judge Value0
+Tool Judge Value1
+Tool Judge Value2
+Tool Judge Value3
+Tool Judge Value4
+Tool Judge Value5
+Tool Judge Value6
+Tool Judge Value7
+Tool Judge Value8
+Tool Judge Value9
+Tool Judge Value10
+Tool Judge Value11
+Tool Judge Value12
+Tool Judge Value13
+Tool Judge Value14
+Tool Judge Value15
+Tool Judge Value16
+Tool Judge Value17
+Tool Judge Value18
+Tool Judge Value19
+Tool Judge Value20
+Tool Judge Value21
+Tool Judge Value22
+Tool Judge Value23
+Tool Judge Value24
+Tool Judge Value25
+Tool Judge Value26
+Tool Judge Value27
+Tool Judge Value28
+Tool Judge Value29
+Tool Judge Value30
+Tool Judge Value31
+Tool Judge Value32
+Tool Judge Value33
+Tool Judge Value34
+Tool Judge Value35
+Tool Judge Value36
+Tool Judge Value37
+Tool Judge Value38
+Tool Judge Value39
+Tool Judge Value40
+Tool Judge Value41
+Tool Judge Value42
+Tool Judge Value43
+Tool Judge Value44
+Tool Judge Value45
+Tool Judge Value46
+Tool Judge Value47
+Tool Judge Value48
+Tool Judge Value49
+Tool Judge Value50
+Tool Judge Value51
+Tool Judge Value52
+Tool Judge Value53
+Tool Judge Value54
+Tool Judge Value55
+Tool Judge Value56
+Tool Judge Value57
+Tool Judge Value58
+Tool Judge Value59
+Tool Judge Value60
+Tool Judge Value61
+Tool Judge Value62
+Tool Judge Value63
+Error Code
+Error Code
+Error Code
+Error Code
+Error Code
+Error Code
+Error Code
+Error Code
+Error Code
+Error Code
+Error Code
+Error Code
+Error Code
+Error Code
+Error Code
+Error Code
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Total Count
+Command Result
+Command Data1
+Command Data2
+Command Data3
+Command Data4
+Command Data5
+Command Data6
+Result Data1
+Result Data2
+Result Data3
+Result Data4
+Result Data5
+Result Data6
+Result Data7
+Result Data8
+Result Data9
+Result Data10
+Result Data11
+Result Data12
+Result Data13
+Result Data14
+Result Data15
+Result Data16
+Result Data17
+Result Data18
+Result Data19
+Result Data20
+Result Data21
+Result Data22
+Result Data23
+Result Data24
+Result Data25
+Result Data26
+Result Data27
+Result Data28
+Result Data29
+Result Data30
+Result Data31
+Result Data32
+Result Data33
+Result Data34
+Result Data35
+Result Data36
+Result Data37
+Result Data38
+Result Data39
+Result Data40
+Result Data41
+Result Data42
+Result Data43
+Result Data44
+Result Data45
+Result Data46
+Result Data47
+Result Data48
+Result Data49
+Result Data50
+Result Data51
+Result Data52
+Result Data53
+Result Data54
+Result Data55
+Result Data56
+Result Data57
+Result Data58
+Result Data59
+Result Data60
+Result Data61
+Result Data62
+Result Data63
+Result Data64
+Result Data65
+Result Data66
+Result Data67
+Result Data68
+Result Data69
+Result Data70
+Result Data71
+Result Data72
+Result Data73
+Result Data74
+Result Data75
+Result Data76
+Result Data77
+Result Data78
+Result Data79
+Result Data80
+Result Data81
+Result Data82
+Result Data83
+Result Data84
+Result Data85
+Result Data86
+Result Data87
+Result Data88
+Result Data89
+Result Data90
+Result Data91
+Result Data92
+Result Data93
+Result Data94
+Result Data95
+Result Data96
+Result Data97
+Result Data98
+Result Data99
+Result Data100
+Result Data101
+Result Data102
+Result Data103
+Result Data104
+Result Data105
+Result Data106
+Result Data107
+Result Data108
+Result Data109
+Result Data110
+Result Data111
+Result Data112
+Command Request Flag
+Reserved
+Reserved
+Result ack flag
+Error Reset Request
+Reserved
+Reserved
+Reserved
+TRG1
+TRG2
+TRG3
+TRG4
+Reserved
+Reserved
+Reserved
+Reserved
+RESET
+EXT
+TEST
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+ExecCondNo
+ExecCondNo
+ExecCondNo
+ExecCondNo
+ExecCondNo
+ExecCondNo
+ExecCondNo
+ExecCondNo
+ExecCondNo
+ExecCondNo
+ExecCondNo
+ExecCondNo
+ExecCondNo
+ExecCondNo
+ExecCondNo
+ExecCondNo
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Reserved
+Command Number
+Command Parameter1
+Command Parameter2
+Command Parameter3
+Command Parameter4
+Command Parameter5
+Command Parameter6
+Command Parameter7
+Command Parameter8
+Command Parameter9
+Command Parameter10
+Command Parameter11
+Command Parameter12
+Command Parameter13
+Command Parameter14
+Command Parameter15
+Command Parameter16
+Command Parameter17
+Command Parameter18
+Command Parameter19
+Command Parameter20
+Command Parameter21
+Command Parameter22
+Command Parameter23
+Command Parameter24
+Command Parameter25
+Command Parameter26
+Command Parameter27
+Command Parameter28
+Command Parameter29
+Command Parameter30
+Command Parameter31
+Command Parameter32
+Command Parameter33
+Command Parameter34
+Command Parameter35
+Command Parameter36
+Command Parameter37
+Command Parameter38
+Command Parameter39
+Command Parameter40
+Command Parameter41
+Command Parameter42
+Command Parameter43
+Command Parameter44
+Command Parameter45
+Command Parameter46
+Command Parameter47
+Command Parameter48
+Command Parameter49
+Command Parameter50
+Command Parameter51
+Command Parameter52
+Command Parameter53
+Command Parameter54
+Command Parameter55
+Command Parameter56
+Command Parameter57
+Command Parameter58
+Command Parameter59
+Command Parameter60
+Command Parameter61
+Command Parameter62
+Command Parameter63
+Command Parameter64
+Command Parameter65
+Command Parameter66
+Command Parameter67
+Command Parameter68
+Command Parameter69
+Command Parameter70
+Command Parameter71
+Command Parameter72
+Command Parameter73
+Command Parameter74
+Command Parameter75
+Command Parameter76
+Command Parameter77
+Command Parameter78
+Command Parameter79
+Command Parameter80
+Command Parameter81
+Command Parameter82
+Command Parameter83
+Command Parameter84
+Command Parameter85
+Command Parameter86
+Command Parameter87
+Command Parameter88
+Command Parameter89
+Command Parameter90
+Command Parameter91
+Command Parameter92
+Command Parameter93
+Command Parameter94
+Command Parameter95
+Command Parameter96
+Command Parameter97
+Command Parameter98
+Command Parameter99
+Command Parameter100
+Command Parameter101
+Command Parameter102
+Command Parameter103
+Command Parameter104
+Command Parameter105
+Command Parameter106
+Command Parameter107
+Command Parameter108
+Command Parameter109
+Command Parameter110
+Command Parameter111
+Command Parameter112
+Command Parameter113
+Command Parameter114
+Command Parameter115
+Command Parameter116
+Command Parameter117
+Command Parameter118
+Command Parameter119
